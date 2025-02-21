@@ -1,4 +1,7 @@
 # Seg2I
+<p align="center">
+  <img width="80%" src="Figure/Fig1_Architecture.png">
+</p>
 ## Installation
 
 ### Requirements
