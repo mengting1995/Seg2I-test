@@ -63,7 +63,3 @@ python3 test.py --config [YOUR_CONFIG_PATH]
 <p align="center">
   <img width="80%" src="Figure/Fig4_keshihua.png">
 </p>
-
-## Pre-trained Models
-
-For your convenience, you can download the pre-trained models and training/testing logs from [Here](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155154502_link_cuhk_edu_hk/EihXWr_HEnJIvR_M0_YRbSgBV-6VEIhmbOA9TMyCmKH35Q?e=hLAPNi).
