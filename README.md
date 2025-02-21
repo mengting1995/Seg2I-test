@@ -60,7 +60,6 @@ python3 test.py --config [YOUR_CONFIG_PATH]
 ```
 
 ## visualization
-
 <p align="center">
   <img width="80%" src="Figure/Fig4_keshihua.png">
 </p>
