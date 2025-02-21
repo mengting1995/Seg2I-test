@@ -2,7 +2,6 @@
 <p align="center">
   <img width="80%" src="Figure/Fig1_Architecture.png">
 </p>
-## Installation
 
 ### Requirements
 - Ubuntu: 18.04 and above.
