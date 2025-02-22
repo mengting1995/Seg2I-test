@@ -64,4 +64,4 @@ python3 test.py --config [YOUR_CONFIG_PATH]
   <img width="80%" src="Figure/Fig4_keshihua.png">
 </p>
 
-Note: Please download the trained network parameters from the "model" folder in the "Branch" branch.
+Note: Please download the trained network parameters from the "model" folder in the "master" Branch.
